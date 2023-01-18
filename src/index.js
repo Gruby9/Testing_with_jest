@@ -1,3 +1,4 @@
 import capitalize from "./capitalize";
+import reverseString from "./reverseString"
 
-capitalize("durwa")
+console.log(reverseString('test'))
