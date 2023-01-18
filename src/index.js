@@ -1,4 +1,5 @@
 import capitalize from "./capitalize";
 import reverseString from "./reverseString"
+import calculator from "./calculator"
 
-console.log(reverseString('test'))
+console.log(calculator.multiply(2,2))
