@@ -1,3 +1,3 @@
 import capitalize from "./capitalize";
 
-capitalize("jedz")
+capitalize("durwa")
